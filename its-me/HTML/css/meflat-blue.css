@@ -1411,3 +1411,20 @@ a:focus,
 		min-height:660px;
 	}
 }
+
+/* Full-Width Container */
+.container.full-width {
+    width: 100%;
+}
+
+
+#photostack-1 img {
+    max-width: 100%;
+}
+a.photostack-img {
+    overflow: hidden;
+}
+
+.js .photostack::after {
+    font-size: 2.5em;
+}
