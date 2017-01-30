@@ -1434,3 +1434,15 @@ section#motivation img {
     max-height: 200px;
 	height:100%;
 }
+
+li#logo {
+    background: grey;
+    border-radius: 50%;
+    height: 150px;
+    width: 150px;
+    opacity: 0.5 !important;
+}
+
+section#services img {
+    max-width: 45%;
+}
