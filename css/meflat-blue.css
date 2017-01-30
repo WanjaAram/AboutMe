@@ -1428,3 +1428,9 @@ a.photostack-img {
 .js .photostack::after {
     font-size: 2.5em;
 }
+
+
+section#WHY-HERE img {
+    max-height: 200px;
+	height:100%;
+}
